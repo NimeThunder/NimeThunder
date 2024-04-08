@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**NimeThunder/NimeThunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mohmad-Emin, i'm from Grozny.
 
-Here are some ideas to get you started:
+### Education:
+Graduated from school with a gold medal\
+I have a bachelor's degree in "Applied Mathematics and Computer Science"\
+Now I’m finishing my master’s degree in Information Systems and Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Completed the course "Data science and machine learning"
+
+I am currently taking the course “Development of Neural Networks”. In the future I plan to continue studying AI.
+
+I know Python at an intermediate level and C++ at a basic level
